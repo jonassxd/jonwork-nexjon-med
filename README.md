@@ -32,11 +32,11 @@ Para registrar um novo médico no sistema NexjonMed, siga o processo abaixo, for
 
 Ao editar as informações de um médico no sistema NexjonMed, é possível modificar apenas os seguintes dados:
 
-- Id:** Identificador único associado ao médico.
-- Email:** Endereço de email do médico.
-- Nome:** Nome  do médico.
-- Endereço:** Localização física do consultório ou clínica do médico.
-- Telefone:** Número de telefone de contato do médico.
+- Id: Identificador único associado ao médico.
+- Email: Endereço de email do médico.
+- Nome: Nome  do médico.
+- Endereço: Localização física do consultório ou clínica do médico.
+- Telefone: Número de telefone de contato do médico.
 
 **Funcionalidade de Cadastro de Pacientes:**
 
