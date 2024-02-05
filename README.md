@@ -81,5 +81,4 @@ Ao editar as informações de um paciente no sistema NexjonMed, é possível mod
   - Postman e Insomnia
 
 ## Banco de Dados:
-
 - Postgres
