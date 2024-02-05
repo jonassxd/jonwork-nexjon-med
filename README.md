@@ -44,7 +44,7 @@ Para cadastrar um novo paciente no sistema NexjonMed, basta seguir o processo ab
 
 - Nome: Nome completo do paciente.
 - Email: Endereço de email do paciente.
-- CPF (Cadastro de Pessoa Física):** Número de registro de pessoa física do paciente.
+- CPF (Cadastro de Pessoa Física): Número de registro de pessoa física do paciente.
 - Telefone: Número de telefone de contato do paciente.
 - Endereço: Localização da residência do paciente.
 
@@ -72,7 +72,7 @@ Ao editar as informações de um paciente no sistema NexjonMed, é possível mod
  **Testes Unitários Automatizados:**
   - Utilização do Mockito para a criação de testes unitários automatizados.
 
-**Ambiente de Desenvolvimento:
+**Ambiente de Desenvolvimento**:
 
 ## IDE:
   - Intellij IDEA
@@ -82,5 +82,5 @@ Ao editar as informações de um paciente no sistema NexjonMed, é possível mod
 
 ## Banco de Dados:
 
-##Postgres:
+## Postgres:
   - Banco de dados utilizado para armazenamento e gerenciamento eficiente dos dados da clínica.
