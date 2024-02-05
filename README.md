@@ -82,5 +82,4 @@ Ao editar as informações de um paciente no sistema NexjonMed, é possível mod
 
 ## Banco de Dados:
 
-## Postgres:
-  - Banco de dados utilizado para armazenamento e gerenciamento eficiente dos dados da clínica.
+- Postgres
