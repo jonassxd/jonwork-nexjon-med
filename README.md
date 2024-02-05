@@ -1,0 +1,1 @@
+#Bem-vindo ao repositório do sistema da clínica NexjonMed, uma clinica fictícia integrante da rede empresarial fictícia Jonwork. Este projeto foi desenvolvido para atender às necessidades específicas básicas uma clínica, proporcionando uma solução eficaz para a equipe médica e administrativa
