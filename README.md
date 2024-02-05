@@ -24,9 +24,9 @@ Para registrar um novo médico no sistema NexjonMed, siga o processo abaixo, for
 - Nome: Nome  do médico.
 - Email: Endereço de email  do médico.
 - CRM (Conselho Regional de Medicina):** Número de registro profissional do médico.
-- Telefone:** Número de telefone de contato do médico.
-- Especialidade:** Área de especialização do médico.
-- Endereço:** Localização física do consultório ou clínica do médico.
+- Telefone: Número de telefone de contato do médico.
+- Especialidade: Área de especialização do médico.
+- Endereço: Localização física do consultório ou clínica do médico.
 
 **Edição de Informações do Médico:**
 
@@ -45,8 +45,8 @@ Para cadastrar um novo paciente no sistema NexjonMed, basta seguir o processo ab
 - Nome: Nome completo do paciente.
 - Email: Endereço de email do paciente.
 - CPF (Cadastro de Pessoa Física):** Número de registro de pessoa física do paciente.
-- Telefone:** Número de telefone de contato do paciente.
-- Endereço:** Localização da residência do paciente.
+- Telefone: Número de telefone de contato do paciente.
+- Endereço: Localização da residência do paciente.
 
 **Edição de Informações do Paciente:**
 
