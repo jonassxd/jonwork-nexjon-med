@@ -7,6 +7,7 @@ Este é o repositório do sistema da clínica NexjonMed, uma clínica fictícia 
 
 - **CRUD (Create, Read, Update e Delete):**
   - Gerenciamento completo de Médicos e Pacientes.
+  - Agendamento e Cancelamento de consultas.
   - Implementação de validações, paginação e ordenação para aprimorar a experiência do usuário.
 
 - **Tratamento de Erros:**
