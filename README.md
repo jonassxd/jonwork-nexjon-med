@@ -2,8 +2,9 @@
 
 Este é o repositório do sistema da clínica NexjonMed, uma clínica fictícia que faz parte da rede empresarial fictícia Jonwork. O projeto foi desenvolvido para atender às necessidades básicas de uma clínica, oferecendo uma solução eficaz para a equipe médica e administrativa.
 
-#Link do Trello : https://trello.com/b/O0lGCsKb/api-voll-med
-#Link do Figma: https://www.figma.com/file/N4CgpJqsg7gjbKuDmra3EV/Voll.med?node-id=2%3A1007
+Link do Trello : https://trello.com/b/O0lGCsKb/api-voll-med
+
+Link do Figma: https://www.figma.com/file/N4CgpJqsg7gjbKuDmra3EV/Voll.med?node-id=2%3A1007
 
 
 ## Funcionalidades Principais:
